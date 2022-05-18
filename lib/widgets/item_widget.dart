@@ -11,16 +11,21 @@ class ItemWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ListTile(
-      leading: Image.network(item.image),
-      title: Text(item.name),
-      subtitle: Text(item.desc),
-      trailing: Text(
-        "\S/.${item.price}",
-        textScaleFactor: 1.5,
-        style: TextStyle(
-          color: Colors.green,
-          fontWeight: FontWeight.bold,
+    return Card(
+      child: ListTile(
+        onTap: () {
+          print("${item.name} pressed");
+        },
+        leading: Image.network(item.image),
+        title: Text(item.name),
+        subtitle: Text(item.desc),
+        trailing: Text(
+          "S/.${item.price}",
+          textScaleFactor: 1.5,
+          style: TextStyle(
+            color: Colors.green,
+            fontWeight: FontWeight.bold,
+          ),
         ),
       ),
     );
@@ -28,7 +33,7 @@ class ItemWidget extends StatelessWidget {
 }
 
   //   return Card(
-  //     child: ListTile(
+  //     child: ListTile( 
   //       onTap: () {
   //         print("${item.name} pressed");
   //       },

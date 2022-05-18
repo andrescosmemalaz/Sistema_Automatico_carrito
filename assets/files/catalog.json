@@ -1,0 +1,156 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Tecnologia",
+            "desc": "Articulos tecnologicos de todo tipo",
+            "price": 8,
+            "color": "#33505a",
+            "image": "https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_960_720.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Lacteos",
+            "desc": " Leche Entera Caja 500g Paquete, Lecitina de Soya . Conservar en un lugar fresco y seco.Refrigerar una vez abierto el envase.Consumir preferentemente antes de lafecha indicada en el fondo del envase",
+            "price": 21,
+            "color": "#33505a",
+            "image": "https://cdn.pixabay.com/photo/2016/08/11/23/25/glass-1587258_960_720.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Cervezas",
+            "desc": "Cerveza CORONITA Extra 6 Pack Botella 210ml",
+            "price": 10,
+            "color": "#00ac51",
+            "image": "https://cdn.pixabay.com/photo/2016/11/29/12/32/beach-1869523_960_720.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Pizzas",
+            "desc": "Pizza Hawaiana Familiar LA FLORENCIA",
+            "price": 18,
+            "color": "#e0bfae",
+            "image": "https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062_960_720.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Panes",
+            "desc": "Pan Ciabatta Bolsa 6un",
+            "price": 10,
+            "color": "#544ee4",
+            "image": "https://cdn.pixabay.com/photo/2016/03/27/21/59/bread-1284438_960_720.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Galletas",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 15,
+            "color": "#e3e4e9",
+            "image": "https://cdn.pixabay.com/photo/2015/11/19/20/17/cookies-1051884_960_720.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Aceites",
+            "desc": "Pack Aceite de Oliva",
+            "price": 15,
+            "color": "#f73984",
+            "image": "https://cdn.pixabay.com/photo/2016/04/13/00/15/oil-1325771_960_720.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Snacks",
+            "desc": "Snacks de cereales",
+            "price": 12,
+            "color": "#1c1c1c",
+            "image": "https://cdn.pixabay.com/photo/2018/03/21/23/21/nuts-3248743_960_720.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Art. Limpieza",
+            "desc": "Limpiatodo POETT Lavanda Botella",
+            "price": 8,
+            "color": "#7c95eb",
+            "image": "https://cdn.pixabay.com/photo/2020/04/21/16/42/objects-5073829_960_720.jpg"
+        },
+        { 
+            "id": 10,
+            "name": "Salsas",
+            "desc": "Mayonesas, Ketchup, Mostaza y otros",
+            "price": 8,
+            "color": "#7c95eb",
+            "image": "https://cdn.pixabay.com/photo/2012/10/01/18/34/dips-58738_960_720.jpg"
+        },
+        { 
+            "id": 11,
+            "name": "Helados",
+            "desc": "Helados de diversos Sabores",
+            "price": 8,
+            "color": "#7c95eb",
+            "image": "https://cdn.pixabay.com/photo/2021/01/18/12/49/ice-cream-5928048_960_720.jpg"
+        },
+        { 
+            "id": 12,
+            "name": "Yogurts",
+            "desc": "Yogurt de diversos Sabores",
+            "price": 9,
+            "color": "#7c95eb",
+            "image": "https://cdn.pixabay.com/photo/2015/09/09/18/40/dessert-932449_960_720.jpg"
+        },
+        { 
+            "id": 13,
+            "name": "Dulces",
+            "desc": "Dulces de diversos sabores",
+            "price": 15,
+            "color": "#7c95eb",
+            "image": "https://cdn.pixabay.com/photo/2017/01/04/19/41/candes-1952997_960_720.jpg"
+        },
+        { 
+            "id": 14,
+            "name": "Ropa",
+            "desc": "Ropas de varios tipos",
+            "price": 30,
+            "color": "#7c95eb",
+            "image": "https://cdn.pixabay.com/photo/2016/11/22/19/08/hangers-1850082_960_720.jpg"
+        },
+        { 
+            "id": 15,
+            "name": "Embutidos",
+            "desc": "Dulces de diversos sabores",
+            "price": 15,
+            "color": "#7c95eb",
+            "image": "https://cdn.pixabay.com/photo/2017/07/19/18/55/chorizo-2520109_960_720.jpg"
+        },
+        { 
+            "id": 16,
+            "name": "Pasta",
+            "desc": "Pasta de diversas marcas",
+            "price": 15,
+            "color": "#7c95eb",
+            "image": "https://cdn.pixabay.com/photo/2021/09/20/06/55/spaghetti-6639970_960_720.jpg"
+        },
+        { 
+            "id": 17,
+            "name": "Quesos",
+            "desc": "Quesos de diversos sabores",
+            "price": 15,
+            "color": "#7c95eb",
+            "image": "https://cdn.pixabay.com/photo/2020/05/03/13/23/cheese-5125021_960_720.jpg"
+        },
+        { 
+            "id": 18,
+            "name": "Pañales",
+            "desc": "Pañales de varios tipos",
+            "price": 30,
+            "color": "#7c95eb",
+            "image": "https://cdn.pixabay.com/photo/2016/05/30/23/24/ducks-1426008_960_720.jpg"
+        },
+        { 
+            "id": 19,
+            "name": "Ensaladas",
+            "desc": "Ensaladas de varias marcas",
+            "price": 10,
+            "color": "#7c95eb",
+            "image": "https://cdn.pixabay.com/photo/2017/10/09/19/29/eat-2834549_960_720.jpg"
+        }
+    ]
+}

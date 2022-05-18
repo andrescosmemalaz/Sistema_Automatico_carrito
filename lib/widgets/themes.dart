@@ -20,5 +20,4 @@ class MyTheme {
           elevation: 0.0,
           iconTheme: IconThemeData(color: Colors.black),
           textTheme: Theme.of(context).textTheme));
-  
 }
